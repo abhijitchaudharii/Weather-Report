@@ -103,13 +103,13 @@ body{
         font-size: 14px;
     }
     .search input{
-        font-size: 12px;
-        height: 42px;
+        font-size: 8px;
+        height: 30px;
     }
 
     .search button{
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     
     }
     .search button img{
